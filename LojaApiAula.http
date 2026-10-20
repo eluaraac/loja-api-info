@@ -1,0 +1,6 @@
+@LojaApiAula_HostAddress = http://localhost:5177
+
+GET {{LojaApiAula_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
